@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I will only write the minimum required info to make docs as concise as possible. More info should be searched by yourself.
+
 <!--
 **m3lab-zzl/m3lab-zzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
